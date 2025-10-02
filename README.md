@@ -32,7 +32,7 @@ My journey started in **Mechatronics Engineering**, expanded into **Data Analyti
 
 ## 🌍 Connect with Me
 - 🔗 [LinkedIn](https://linkedin.com/in/oghenetega-great-aminode)  
-- 🌐 [Portfolio/Blog](#)  
+- 🌐 [Portfolio](#)  
 - ✉️ **tegagreataminode@gmail.com**  
 
 ---
