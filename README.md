@@ -37,7 +37,7 @@ My journey started in **Mechatronics Engineering**, expanded into **Data Analyti
 
 ---
 
-⭐️ *Currently documenting my journey into **Computer Vision Engineering** — showcasing projects that unite robotics, data, and AI.*  
+⭐️ *Showcasing projects that unite robotics, data, and AI.*  
 <!--
 **TegaAminode/TegaAminode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
