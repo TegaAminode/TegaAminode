@@ -24,7 +24,7 @@ My journey started in **Mechatronics Engineering**, expanded into **Data Analyti
 ---
 
 ## 📌 Featured Projects
-🔹 [Computer Vision Project](https://github.com/TegaAminode/ai-table-extractor-app) – Image preprocessing & detection (in progress)  
+🔹 [Computer Vision Project](https://github.com/TegaAminode/brain-tumor-detector) – Image preprocessing & detection
 🔹 [Customer Data Processing App](https://github.com/TegaAminode/data-processing-app) – Automated data validation pipeline, improved data accuracy by 15%  
 🔹 [Sales Analytics Dashboard](#) – Power BI dashboard tracking sales KPIs and business trends  
 
