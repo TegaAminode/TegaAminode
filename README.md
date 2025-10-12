@@ -26,13 +26,12 @@ My journey started in **Mechatronics Engineering**, expanded into **Data Analyti
 ## 📌 Featured Projects
 🔹 [Computer Vision Project](https://github.com/TegaAminode/brain-tumor-detector) – Image preprocessing & detection   
 🔹 [Customer Data Processing App](https://github.com/TegaAminode/data-processing-app) – Automated data validation pipeline, improved data accuracy by 15%  
-🔹 [Sales Analytics Dashboard](#) – Power BI dashboard tracking sales KPIs and business trends  
+🔹 [Sales Analytics Dashboard](https://github.com/TegaAminode/sales-analytics-dashboard-interactive) – Power BI dashboard tracking sales KPIs and business trends  
 
 ---
 
 ## 🌍 Connect with Me
-- 🔗 [LinkedIn](https://linkedin.com/in/oghenetega-great-aminode)  
-- 🌐 [Portfolio](#)  
+- 🔗 [LinkedIn](https://linkedin.com/in/oghenetega-great-aminode)   
 - ✉️ **tegagreataminode@gmail.com**  
 
 ---
