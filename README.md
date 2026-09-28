@@ -1,25 +1,27 @@
 # 👋 Hi, I'm Tega Aminode  
 
-🚀 **Computer Vision Engineer | Mechatronics & Data Background**  
+🚀 **AI Engineer | Robotics, Computer Vision & Data**  
 
-I build AI systems that **see, understand, and act**.  
-My journey started in **Mechatronics Engineering**, expanded into **Data Analytics & Automation**, and now converges in **Computer Vision**, where I design intelligent solutions with real-world impact.  
+I build intelligent systems that **perceive, understand, and act**.  
+My journey started in **Mechatronics Engineering**, expanded through **Data Analytics and Automation**, and evolved into **AI and Computer Vision**. I’m now focused on **Robotics and Autonomous Systems**, exploring how perception, AI, and data can enable intelligent machines and mobility systems.  
 
 ---
 
 ## 🧠 Focus Areas
-- 🖼️ Image classification, object detection & recognition  
-- 📷 Computer Vision (OpenCV, TensorFlow, Keras)  
-- 🤖 Intelligent **vision** systems
-- ⚡ Automation & scalable AI pipelines  
+- 🤖 Robotics & Autonomous Systems
+- 🖼️ Computer Vision — image classification, object detection & recognition
+- 🧠 AI & Machine Learning
+- 📊 Data Analytics & Intelligent Automation
+- 🚗 Intelligent Mobility Systems
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages**: Python, SQL  
-- **AI/ML**: TensorFlow, Keras, OpenCV 
-- **Data**: Pandas, NumPy, Power BI, Tableau  
-- **Other**: Flask, Git/GitHub  
+- **Languages**: Python, SQL
+- **AI/ML**: TensorFlow, Keras, OpenCV, scikit-learn
+- **Data**: Pandas, NumPy, Power BI, Tableau, BigQuery
+- **Robotics**: ROS, Gazebo, Arduino
+- **Development**: Flask, Git/GitHub  
 
 ---
 
@@ -36,7 +38,7 @@ My journey started in **Mechatronics Engineering**, expanded into **Data Analyti
 
 ---
 
-⭐️ *Showcasing projects that unite robotics, data, and AI.*  
+⭐️ *Building at the intersection of robotics, AI, computer vision, and data with a passion for autonomous systems and intelligent mobility.*  
 <!--
 **TegaAminode/TegaAminode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
